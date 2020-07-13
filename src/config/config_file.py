@@ -1,6 +1,4 @@
 from functools import reduce
-from typing import Dict
-
 import yaml
 import operator
 
