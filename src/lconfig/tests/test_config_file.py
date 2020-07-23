@@ -1,5 +1,5 @@
 import pytest
-from config.config_file import ConfigFile
+from lconfig.config_file import ConfigFile
 
 
 def test_file_does_not_exist(fs):

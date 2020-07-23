@@ -1,4 +1,4 @@
-from config.config import Config
+from lconfig.config import Config
 
 
 def test_config_get():
